@@ -1,0 +1,18 @@
+Funções em JavaScript
+
+Funções:
+
+-soma(a, b): soma dois números
+
+-subtracao(a, b): subtrai
+
+-multiplicacao(a, b): multiplica
+
+-divisao(a, b): divide
+
+Funçãocalcular(a, b, operacao) que usa outra função dentro dela (callback).
+
+Tem uma parte que trabalha com uma lista de números e usa uma arrow function pra pegar só os números pares.
+Tem uma função pra calcular a média dos números.
+E outra arrow function pra mostrar os resultados no console.
+
